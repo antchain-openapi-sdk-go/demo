@@ -1,6 +1,6 @@
 module github.com/alipay/openapi-demo
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/alibabacloud-go/tea v1.2.2
