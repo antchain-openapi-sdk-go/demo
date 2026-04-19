@@ -1,4 +1,4 @@
-module github.com/alipay/openapi-demo
+module github.com/alipay/demo
 
 go 1.22.1
 
